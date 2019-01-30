@@ -1,7 +1,7 @@
 # Cellvault
 A decent lookin website with a REST API.
 
-## API 
+## RestAPI 
 http://31.222.178.244:80
 
 
