@@ -1,9 +1,11 @@
 # Cellvault
-A decent lookin website with a REST API.
+A decent looking website with a REST API.
 
 ## RestAPI 
 http://31.222.178.244:80
 
+## Screen Shots
+<img src="screenshots/auth api.png" width="100%">
 
 ## END POINTS
 * Endpoint: /auth/rest/login
