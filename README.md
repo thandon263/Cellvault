@@ -17,5 +17,4 @@ http://31.222.178.244:80
 ## TECHNOLOGIES
 * React - Frontend
 * Node JS - Backend
-* Axios - sending web requests to the back end
-* Material UI Kit -  Create ui components since they are responsive and have nice animations
+
